@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<center>
-  
 [![](https://github-readme-stats.vercel.app/api?username=makarovdmitrii&count_private=true&show_icons=true&theme=apprentice)]()
 
-
-  
-</center>
+[![Telegram URL](https://badgen.net/badge/icon/telegram?icon=telegram&label)](https://t.me/makarovdmitrii)
