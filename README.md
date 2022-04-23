@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![](https://github-readme-stats.vercel.app/api?username=makarovdmitrii&count_private=true&show_icons=true&theme=apprentice)]()
 
-[![Telegram URL](https://badgen.net/badge/icon/telegram?icon=telegram&label)](https://t.me/makarovdmitrii)
+[![Telegram URL](https://badgen.net/badge/icon/Telegram?icon=telegram&label)](https://t.me/makarovdmitrii)
